@@ -15,4 +15,4 @@ immediately.
 
 ### Screenshot (of what you will no longer see)
 
-<img src="https://raw.githubusercontent.com/elliotwaite/udemy-faster-autoplay/master/screenshot/screenshot.jpg">
+<img src="https://raw.githubusercontent.com/elliotwaite/udemy-faster-autoplay/master/images/screenshot.jpg">

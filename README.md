@@ -8,4 +8,12 @@ immediately.
 Note: This extension respects the Udemy video player's "Autoplay" setting. So
 if you disable autoplay, this extension will do nothing.
 
+# 🚧 Install 🚧
+
+This browser extension is currently being reviewed, but I will add links to
+where you can download the Chrome Extension and the Firefox Add-on once they
+have been approved.
+
+# Screenshot
+
 <img src="https://raw.githubusercontent.com/elliotwaite/udemy-faster-autoplay/master/screenshot/screenshot.jpg">

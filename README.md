@@ -7,3 +7,5 @@ immediately.
 
 Note: This extension respects the Udemy video player's "Autoplay" setting. So
 if you disable autoplay, this extension will do nothing.
+
+<img src="https://raw.githubusercontent.com/elliotwaite/udemy-faster-autoplay/master/screenshot/screenshot.jpg">

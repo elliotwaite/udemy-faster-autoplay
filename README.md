@@ -10,7 +10,7 @@ https://addons.mozilla.org/en-US/firefox/addon/udemy-faster-autoplay/
 
 If you enable autoplay while watching a Udemy playlist, once a video ends, you
 are usually advanced to the next video after a 3-second delay. This extension
-removes that 3-second delay so that you are advanced to the next video
+removes that 3-second delay so that you are always advanced to the next video
 immediately.
 
 ### Screenshot (of what you will no longer see)

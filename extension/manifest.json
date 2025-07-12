@@ -1,9 +1,14 @@
 {
   "manifest_version": 3,
   "name": "Udemy™ Faster Autoplay",
-  "version": "0.2",
+  "version": "0.3",
   "description": "Removes the 3-second delay before autoplaying the next video.",
   "author": "Elliot Waite",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{7c74d36c-5de5-4709-b389-44e9a6719fc7}"
+    }
+  },
   "icons": {
     "128": "icon128.png"
   },

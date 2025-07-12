@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Udemy™ Faster Autoplay",
   "version": "0.2",
   "description": "Removes the 3-second delay before autoplaying the next video.",
